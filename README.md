@@ -21,7 +21,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 **Vídeo de Demonstração:**
 
-[![Demonstração do Sistema](images/video.gif)
+![Demonstração do Sistema](images/video.gif)
 
 **Screenshots do Sistema:**
 

@@ -21,7 +21,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 **Vídeo de Demonstração:**
 
-![Demonstração do Sistema](https://www.youtube.com/watch?v=F69-qk8yWOs)
+![Demonstração do Sistema](https://i.ytimg.com/vi/F69-qk8yWOs/hqdefault.jpg)
 
 **Screenshots do Sistema:**
 
@@ -73,4 +73,3 @@ Sinta-se à vontade para contribuir com o projeto. Basta seguir as etapas abaixo
 5. Abra um Pull Request.
 
 Desenvolvido com 💜 por Anderson Dias
-At.te

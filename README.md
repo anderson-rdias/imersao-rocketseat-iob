@@ -21,7 +21,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 **Vídeo de Demonstração:**
 
-![Demonstração do Sistema](https://www.youtube.com/watch?v=F69-qk8yWOs&ab_channel=AndersonRodriguesDias)
+![Demonstração do Sistema](https://www.youtube.com/watch?v=F69-qk8yWOs)
 
 **Screenshots do Sistema:**
 
@@ -72,5 +72,5 @@ Sinta-se à vontade para contribuir com o projeto. Basta seguir as etapas abaixo
 4. Push para a branch (git push origin feature/nova-feature).
 5. Abra um Pull Request.
 
-Desenvolvido com 💜 por Anderson Dias.
+Desenvolvido com 💜 por Anderson Dias
 At.te
